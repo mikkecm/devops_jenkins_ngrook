@@ -9,8 +9,8 @@ import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2021-09-25T15:16:13-0500",
-    comments = "version: 1.3.1.Final, compiler: javac, environment: Java 11.0.12 (Red Hat, Inc.)"
+    date = "2021-09-30T00:14:01-0500",
+    comments = "version: 1.3.1.Final, compiler: Eclipse JDT (IDE) 1.4.0.v20210708-0430, environment: Java 11.0.12 (Red Hat, Inc.)"
 )
 @Component
 public class InvoiceRequestMapperImpl implements InvoiceRequestMapper {
